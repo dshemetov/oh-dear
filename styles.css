@@ -55,3 +55,16 @@ button {
 button:hover {
     background-color: #0056b3;
 }
+
+#gbucks {
+    position: fixed;
+    left: 50%;
+    bottom: 10px;
+    font-size: 100px;
+    transform: translateX(-50%);
+    opacity: 0.1;
+}
+
+#gbucks-label {
+    font-size: 70px;
+}
